@@ -1,5 +1,6 @@
- import Input from '@/components/Input'
+ import Input from '../components/Input'
 import { useCallback, useState } from 'react';
+import React from 'react';
  
  
  const Auth = () => {
